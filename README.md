@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ViiniVinicin
+- 👋 Hi, I’m Erick Vinícius
 - 👀 I’m interested in learn new languages and improve my knowledge.
-- 🌱 I’m currently learning PHP, CSS and MySql.
-- 💞️ I’m looking to collaborate improving myself and making better projects
-- 📫 How to reach me: "erickvini172@gmail.com"
+- 🌱 I’m currently learning PHP, HTML, CSS and MySql.
+- 💞️ I’m looking to collaborate improving myself and making better projects.
+- 📫 How to reach me: "erickvini172@gmail.com".
+- 📑 I'm serching for a internship vacancy.
